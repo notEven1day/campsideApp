@@ -1,0 +1,25 @@
+/* Campground.css */
+.campground-container {
+    margin: 16px;
+    max-width: 300px;
+    display: inline-block;
+}
+
+.ant-card {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.ant-card-body {
+    padding: 16px;
+}
+
+.ant-card-meta-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.ant-card-meta-description {
+    font-size: 14px;
+    color: #555;
+}

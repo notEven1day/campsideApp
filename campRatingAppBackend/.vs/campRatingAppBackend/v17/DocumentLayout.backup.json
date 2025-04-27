@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ItCareerFinalExam\\campRatingAppBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\controllers\\campgroundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\controllers\\campgroundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\dtos\\campgrounddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\dtos\\campgrounddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\services\\campgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\services\\campgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\models\\campground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\models\\campground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\dtos\\usersignupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\dtos\\usersignupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|f:\\itcareerfinalexam\\campratingappbackend\\campratingappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AA345A-1F76-4C0C-B59E-A22BA30CE272}|campRatingAppBackend\\campRatingAppBackend.csproj|solutionrelative:campratingappbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Dtos\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\Dtos\\ReviewDto.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Dtos\\ReviewDto.cs",
+              "RelativeToolTip": "campRatingAppBackend\\Dtos\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:44:24.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CampgroundDto.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Dtos\\CampgroundDto.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\Dtos\\CampgroundDto.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Dtos\\CampgroundDto.cs",
+              "RelativeToolTip": "campRatingAppBackend\\Dtos\\CampgroundDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:12:08.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\Controllers\\ReviewController.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "campRatingAppBackend\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv1wAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T09:00:00.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CampgroundController.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Controllers\\CampgroundController.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\Controllers\\CampgroundController.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Controllers\\CampgroundController.cs",
+              "RelativeToolTip": "campRatingAppBackend\\Controllers\\CampgroundController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:38:04.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "campRatingAppBackend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:54:16.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\Services\\ReviewService.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Services\\ReviewService.cs",
+              "RelativeToolTip": "campRatingAppBackend\\Services\\ReviewService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:28:42.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\Services\\UserService.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Services\\UserService.cs",
+              "RelativeToolTip": "campRatingAppBackend\\Services\\UserService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:28:31.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Review.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\models\\Review.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\models\\Review.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\models\\Review.cs",
+              "RelativeToolTip": "campRatingAppBackend\\models\\Review.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:14:20.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CampgroundService.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Services\\CampgroundService.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\Services\\CampgroundService.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Services\\CampgroundService.cs",
+              "RelativeToolTip": "campRatingAppBackend\\Services\\CampgroundService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv0AAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:28:20.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Campground.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\models\\Campground.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\models\\Campground.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\models\\Campground.cs",
+              "RelativeToolTip": "campRatingAppBackend\\models\\Campground.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:14:06.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserSignUpDto.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Dtos\\UserSignUpDto.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\Dtos\\UserSignUpDto.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Dtos\\UserSignUpDto.cs",
+              "RelativeToolTip": "campRatingAppBackend\\Dtos\\UserSignUpDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:22:16.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\models\\User.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\models\\User.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\models\\User.cs",
+              "RelativeToolTip": "campRatingAppBackend\\models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:13:57.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Dtos\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\Dtos\\UserLoginDto.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Dtos\\UserLoginDto.cs",
+              "RelativeToolTip": "campRatingAppBackend\\Dtos\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:59:08.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\ApplicationDbContext.cs",
+              "RelativeToolTip": "campRatingAppBackend\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:20:21.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\appsettings.json",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\appsettings.json",
+              "RelativeToolTip": "campRatingAppBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T07:24:13.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Program.cs",
+              "RelativeDocumentMoniker": "campRatingAppBackend\\Program.cs",
+              "ToolTip": "F:\\ItCareerFinalExam\\campRatingAppBackend\\campRatingAppBackend\\Program.cs",
+              "RelativeToolTip": "campRatingAppBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:18:26.879Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

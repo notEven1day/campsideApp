@@ -1,0 +1,6 @@
+@campRatingAppBackend_HostAddress = http://localhost:5084
+
+GET {{campRatingAppBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

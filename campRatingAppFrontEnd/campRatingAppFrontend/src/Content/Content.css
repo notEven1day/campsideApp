@@ -1,0 +1,49 @@
+/* Style for the content section */
+.ContentPlusNav {
+    padding: 20px;
+}
+
+/* Each campground container */
+.campground-container {
+    display: inline-block;
+    width: calc(33.33% - 20px);  /* Adjust the width to display three items per row */
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+/* Styling the campground card */
+.campground-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    text-align: center;
+    padding: 10px;
+    background-color: #fff;
+}
+
+/* Image for the campground */
+.campground-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;  /* Ensures the image covers the area without distortion */
+    border-radius: 4px;
+}
+
+/* Campground name styling */
+.campground-name {
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/* Button to view details */
+.campground-card Button {
+    margin-top: 10px;
+}
+
+/* Responsive styling */
+@media (max-width: 768px) {
+    .campground-container {
+        width: 100%;  /* Stack campgrounds vertically on smaller screens */
+    }
+}

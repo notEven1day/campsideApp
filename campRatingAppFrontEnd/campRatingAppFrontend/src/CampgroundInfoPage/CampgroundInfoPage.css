@@ -1,0 +1,47 @@
+/* CampgroundInfoPage.css */
+.campground-info-page {
+    padding: 20px;
+}
+
+.campground-info-page img {
+    width: 300px; /* Set image size to a fixed width */
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    display: block; /* Center the image */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.review {
+    background-color: #e0f7fa; /* Light blue background */
+    border-radius: 8px; /* Rounded corners */
+    padding: 15px; /* Add some padding inside the box */
+    margin-bottom: 15px; /* Space between reviews */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+}
+
+.review h3 {
+    margin-top: 0;
+    font-size: 1.2em; /* Slightly bigger font for the username */
+    color: #00796b; /* Darker color for the username */
+}
+
+.review p {
+    margin: 5px 0;
+    font-size: 1em;
+    color: #004d40; /* Slightly darker text color for readability */
+}
+
+.rating, .date {
+    font-style: italic;
+    font-size: 0.9em;
+    color: #00796b; /* Use the same color for consistency */
+}
+
+.no-reviews {
+    color: #00796b; /* Light blueish color for no reviews message */
+    font-style: italic;
+    font-size: 1.1em;
+}
+

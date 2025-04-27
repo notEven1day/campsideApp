@@ -1,0 +1,198 @@
+[
+  {
+    "ContainingType": "campRatingAppBackend.Controllers.CampgroundController",
+    "Method": "CreateCampground",
+    "RelativePath": "api/Campground/createCampground",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "campground",
+        "Type": "campRatingAppBackend.models.Campground",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "campRatingAppBackend.Controllers.CampgroundController",
+    "Method": "DeleteCampground",
+    "RelativePath": "api/Campground/deleteCampground/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "campRatingAppBackend.Controllers.CampgroundController",
+    "Method": "GetAllCampgrounds",
+    "RelativePath": "api/Campground/getAllCampgrounds",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "campRatingAppBackend.Controllers.CampgroundController",
+    "Method": "GetCampgroundById",
+    "RelativePath": "api/Campground/getCampgroundById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "campRatingAppBackend.Controllers.CampgroundController",
+    "Method": "UpdateCampground",
+    "RelativePath": "api/Campground/updateCampground/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "campgroundDTO",
+        "Type": "campRatingAppBackend.Dtos.CampgroundDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "campRatingAppBackend.Controllers.ReviewController",
+    "Method": "CreateReview",
+    "RelativePath": "api/Review/createReview",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reviewDto",
+        "Type": "campRatingAppBackend.Dtos.ReviewDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "campRatingAppBackend.Controllers.ReviewController",
+    "Method": "DeleteReview",
+    "RelativePath": "api/Review/deleteReview/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "campRatingAppBackend.Controllers.ReviewController",
+    "Method": "GetReviewsByUser",
+    "RelativePath": "api/Review/getReviewsByUser/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "campRatingAppBackend.Controllers.ReviewController",
+    "Method": "GetReviewsForCampground",
+    "RelativePath": "api/Review/getReviewsForCampground/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "campRatingAppBackend.Controllers.UserController",
+    "Method": "LogIn",
+    "RelativePath": "api/User/log-in",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userLoginDto",
+        "Type": "campRatingAppBackend.Dtos.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "campRatingAppBackend.Controllers.UserController",
+    "Method": "SignUp",
+    "RelativePath": "api/User/sign-up",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userSignUpDto",
+        "Type": "campRatingAppBackend.Dtos.UserSignUpDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "campRatingAppBackend.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[campRatingAppBackend.WeatherForecast, campRatingAppBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

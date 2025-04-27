@@ -1,0 +1,43 @@
+/* Global styles for the body */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Light background color */
+}
+
+/* Main container holding all components */
+.home-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure the page takes at least full viewport height */
+}
+
+/* Styling for the header */
+header {
+    background-color: #333; /* Dark background for the header */
+    color: #fff; /* White text */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styling for the content section */
+.content {
+    flex: 1; /* Allow content to take up remaining space */
+    padding: 40px 20px;
+    background-color: #fff; /* White background for the content */
+}
+
+/* Styling for the footer */
+footer {
+    background-color: #333; /* Dark footer background */
+    color: #fff; /* White footer text */
+    padding: 10px 20px;
+    text-align: center;
+}
+
+/* Make sure Footer has space between its content and the bottom of the page */
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
